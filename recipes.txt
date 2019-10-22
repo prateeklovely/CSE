@@ -3,6 +3,7 @@ welcome to Motwani Kitchen
 khamand
 dhokla
 
-
+beans 
+pizza
 thankyou :) 
 done my changes
